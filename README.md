@@ -1,4 +1,4 @@
-# Análise de Dados Educacionais - INDE (PEDE 2024)
+# Análise de Dados Educacionais — INDE (PEDE 2024)
 
 ## Objetivo  
 Analisar o desempenho educacional dos estudantes com base nos dados do INDE, identificando fatores que impactam esse desempenho e apoiando a tomada de decisão educacional.
@@ -47,6 +47,8 @@ Utilizado para estimar o desempenho acadêmico dos estudantes.
 - O desempenho é influenciado por múltiplos fatores  
 - Indicadores como IEG (engajamento) e IPV (ponto de virada) se destacam  
 
+
+
 ### Modelo de Classificação  
 Utilizado para identificar estudantes em potencial situação de risco educacional.
 
@@ -77,9 +79,19 @@ https://fiap-datathon-fase5-pmagicos.streamlit.app/
 
 
 
+## Apresentação (PDF)
+
+https://drive.google.com/file/d/1pIckT00aSlWLGdg7HYIi8Fdj0kZb9LBu/view?usp=sharing
+
+
+
 ## Vídeo  
 
-https://youtu.be/C1RSRGE3Bbk
+Principal (YouTube):  
+https://youtu.be/C1RSRGE3Bbk  
+
+Backup (Google Drive):  
+https://drive.google.com/file/d/1O0d8_As_PxvzFS_N3mQ9Sc4Ur0a1b4A7/view?usp=sharing
 
 
 
