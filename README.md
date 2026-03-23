@@ -1,4 +1,4 @@
-# Análise de Dados Educacionais — INDE (PEDE 2024)
+# Análise de Dados Educacionais - INDE (PEDE 2024)
 
 ## Objetivo  
 Analisar o desempenho educacional dos estudantes com base nos dados do INDE, identificando fatores que impactam esse desempenho e apoiando a tomada de decisão educacional.
@@ -103,4 +103,4 @@ Josiane Queiroz Aguiar
 
 ## Observação  
 
-Este projeto foi desenvolvido no contexto do Datathon – Fase 5 da Pós-Tech em Data Analytics (FIAP).
+Este projeto foi desenvolvido no contexto do Datathon - Fase 5 da Pós-Tech em Data Analytics (FIAP).
