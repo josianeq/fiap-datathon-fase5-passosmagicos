@@ -1,9 +1,8 @@
-# Análise de Dados Educacionais — INDE (PEDE 2024)
+# Análise de Dados Educacionais - INDE (PEDE 2024)
 
 ## Objetivo  
 Analisar o desempenho educacional dos estudantes com base nos dados do INDE, identificando fatores que impactam esse desempenho e apoiando a tomada de decisão educacional.
 
----
 
 ## Base de Dados  
 Foram utilizados dados do PEDE 2024, contendo informações sobre alunos, fases e indicadores educacionais.
@@ -16,7 +15,6 @@ O principal elemento da análise é o INDE (Índice de Desenvolvimento Educacion
 
 Além disso, os estudantes são classificados em níveis chamados “pedras” (Quartzo, Ágata, Ametista e Topázio), que representam estágios do desenvolvimento educacional.
 
----
 
 ## Etapas do Projeto  
 
@@ -26,7 +24,6 @@ Além disso, os estudantes são classificados em níveis chamados “pedras” (
 - Modelagem preditiva (regressão)  
 - Modelo de classificação (identificação de risco)
 
----
 
 ## Principais Insights  
 
@@ -36,7 +33,6 @@ Além disso, os estudantes são classificados em níveis chamados “pedras” (
 - Existe relação positiva entre engajamento (IEG) e desempenho acadêmico (IDA)  
 - Fatores psicossociais também impactam o desempenho acadêmico  
 
----
 
 ## Modelos Utilizados  
 
@@ -47,7 +43,6 @@ Utilizado para estimar o desempenho acadêmico dos estudantes.
 - O desempenho é influenciado por múltiplos fatores  
 - Indicadores como IEG (engajamento) e IPV (ponto de virada) se destacam  
 
----
 
 ### Modelo de Classificação  
 Utilizado para identificar estudantes em potencial situação de risco educacional.
@@ -55,7 +50,6 @@ Utilizado para identificar estudantes em potencial situação de risco educacion
 - Permite antecipar dificuldades  
 - Apoia ações pedagógicas mais direcionadas  
 
----
 
 ## Conclusão  
 
@@ -63,19 +57,29 @@ O desempenho educacional vai além de fatores acadêmicos, sendo influenciado po
 
 O uso de dados permite compreender melhor essa complexidade e apoiar decisões pedagógicas mais assertivas, contribuindo para a evolução dos estudantes ao longo de sua trajetória.
 
+
+## Notebook  
+
+Notebook com toda a análise e modelagem do projeto:  
+
+https://colab.research.google.com/drive/1n-pQt1gi25I973rkstzYqh1rj8YiBCta
+
 ---
+
+## Aplicação (Streamlit)
+
+https://fiap-datathon-fase5-pmagicos.streamlit.app/
+
 
 ## Vídeo  
 
 https://youtu.be/C1RSRGE3Bbk
 
----
 
 ## Autora  
 
 Josiane Queiroz Aguiar  
 
----
 
 ## Observação  
 
