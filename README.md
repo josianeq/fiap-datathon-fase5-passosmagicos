@@ -64,7 +64,6 @@ Notebook com toda a análise e modelagem do projeto:
 
 https://colab.research.google.com/drive/1n-pQt1gi25I973rkstzYqh1rj8YiBCta
 
----
 
 ## Aplicação (Streamlit)
 
